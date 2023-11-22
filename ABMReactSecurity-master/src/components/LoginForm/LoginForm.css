@@ -1,0 +1,21 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .login-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 542.5px;
+    height: 342.5px;
+
+  }
+  
+  .login-box form {
+    display: flex;
+    flex-direction: column;
+  }
